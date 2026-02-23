@@ -22,7 +22,7 @@ All final modelling decisions remained human-supervised.
 ## Repository Structure
 
 ```
-credit-default-project/
+MSIN0097-Assessment1-Individual-Coursework/
 │
 ├── notebooks/
 │   └── credit_default_analysis.ipynb
