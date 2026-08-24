@@ -1,4 +1,4 @@
-# MSIN0097-Assessment1-Individual-Coursework- Credit Default Prediction
+# Credit Default Prediction
 
 ## Project Overview
 
@@ -22,7 +22,7 @@ All final modelling decisions remained human-supervised.
 ## Repository Structure
 
 ```
-MSIN0097-Assessment1-Individual-Coursework/
+Credit Default Prediction/
 │
 ├── notebooks/
 │   └── credit_default_analysis.ipynb
